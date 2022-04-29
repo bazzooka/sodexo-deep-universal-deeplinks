@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.sodexo.globalretail",
+                 "sha256_cert_fingerprints": ["11:35:8A:D0:4C:D6:16:93:D1:E5:EC:62:34:8A:2C:B8:32:5F:35:54:D6:B7:D1:3E:06:C4:30:55:C8:CC:CF:65"] }
+  }]
